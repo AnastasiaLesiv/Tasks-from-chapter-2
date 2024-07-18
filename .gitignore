@@ -1,0 +1,11 @@
+.collabignore
+.idea/
+.vscode/
+Assembly-CSharp.csproj
+Library/
+Logs/
+Tasks from chapter 2.sln
+Temp/
+UserSettings/
+obj/
+
