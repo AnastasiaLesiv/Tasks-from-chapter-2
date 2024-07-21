@@ -7,6 +7,11 @@ TagManager:
   - Ball
   - Obstacle
   - Floor
+  - Sheep
+  - Cow
+  - Chicken
+  - Pig
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -17,7 +22,7 @@ TagManager:
   - Ball
   - Obstacle
   - FloorLayer
-  - 
+  - Target
   - 
   - 
   - 
